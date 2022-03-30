@@ -32,4 +32,4 @@ class MyTextField extends StatelessWidget {
           ),
           focusedBorder: OutlineInputBorder(
             borderSide: BorderSide(
-              color: Colors.whit
+              color: Colors.whi
