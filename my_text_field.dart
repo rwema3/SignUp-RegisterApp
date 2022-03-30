@@ -30,4 +30,4 @@ class MyTextField extends StatelessWidget {
             ),
             borderRadius: BorderRadius.circular(18),
           ),
-          focus
+          focu
