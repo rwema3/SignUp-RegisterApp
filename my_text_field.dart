@@ -31,4 +31,4 @@ class MyTextField extends StatelessWidget {
             borderRadius: BorderRadius.circular(18),
           ),
           focusedBorder: OutlineInputBorder(
-            borderSide
+            borderSid
