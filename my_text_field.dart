@@ -2,4 +2,4 @@ import 'package:flutter/material.dart';
 
 import '../constants.dart';
 
-class MyTextField extends StatelessWidge
+class MyTextField extends StatelessWidget 
