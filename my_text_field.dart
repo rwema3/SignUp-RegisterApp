@@ -35,4 +35,4 @@ class MyTextField extends StatelessWidget {
               color: Colors.white,
               width: 1,
             ),
-            borderRadius: BorderRadius.circular(
+            borderRadius: BorderRadius.circular(1
