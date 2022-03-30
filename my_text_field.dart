@@ -24,4 +24,4 @@ class MyTextField extends StatelessWidget {
           hintText: hintText,
           hintStyle: kBodyText,
           enabledBorder: OutlineInputBorder(
-            borderSide: Bor
+            borderSide: Bo
