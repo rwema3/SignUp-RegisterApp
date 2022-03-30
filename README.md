@@ -4,7 +4,7 @@ a flutter project demonstrating welcome screen, login page and register page ui.
 ## Author:
 Bagirishya Rwema Dominique
 
-[Github](https://github.com/rwema3)
+[Contact me via Twitter ](https://twitter.com/R_w_e_m_a)
 
 ## ScreenShots 📷 
 <p float="left">
