@@ -16,4 +16,4 @@ class MyTextField extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(vertical: 10),
       child: TextField(
-        style: kBodyText.copyWith(color: Colo
+        style: kBodyText.copyWith(color: Color
