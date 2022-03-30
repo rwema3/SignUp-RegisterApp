@@ -19,4 +19,3 @@ class MyTextField extends StatelessWidget {
         style: kBodyText.copyWith(color: Colors.white),
         keyboardType: inputType,
         textInputAction: TextInputAction.next,
-  
