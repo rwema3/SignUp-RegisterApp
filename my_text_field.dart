@@ -20,4 +20,4 @@ class MyTextField extends StatelessWidget {
         keyboardType: inputType,
         textInputAction: TextInputAction.next,
         decoration: InputDecoration(
-          contentPadding: EdgeInsets.
+          contentPadding: EdgeInsets.a
