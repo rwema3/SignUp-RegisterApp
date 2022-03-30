@@ -9,4 +9,4 @@ class MyTextField extends StatelessWidget {
     @required this.inputType,
   }) : super(key: key);
   final String hintText;
-  final TextInputT
+  final TextInput
