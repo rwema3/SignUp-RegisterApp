@@ -1,8 +1,10 @@
 # Flutter Welcome, Sign in, Register Page ui design
 a flutter project demonstrating welcome screen, login page and register page ui.
 
-## Watch Video Tutorial
-[Watch design process at youtube](https://youtu.be/8oF1qXDEx6o)
+## Author:
+Bagirishya Rwema Dominique
+
+[Github](https://github.com/rwema3)
 
 ## ScreenShots 📷 
 <p float="left">
@@ -12,6 +14,4 @@ a flutter project demonstrating welcome screen, login page and register page ui.
   <img src="screenshots/register_fields.png" alt="FLutter Ui design" width="300" />
 </p>
 
-## Support
-
-<a href="https://www.buymeacoffee.com/tonydavid" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+# God Bless You!
