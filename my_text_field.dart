@@ -22,5 +22,4 @@ class MyTextField extends StatelessWidget {
         decoration: InputDecoration(
           contentPadding: EdgeInsets.all(20),
           hintText: hintText,
-          hintStyle: kBodyText,
-  
+          hintStyle: kBodyTex
