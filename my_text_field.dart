@@ -2,4 +2,4 @@ import 'package:flutter/material.dart';
 
 import '../constants.dart';
 
-class MyTextField extends Sta
+class MyTextField extends Stat
