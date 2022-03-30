@@ -6,4 +6,4 @@ class MyTextField extends StatelessWidget {
   const MyTextField({
     Key key,
     @required this.hintText,
-    @required this.in
+    @required this.i
