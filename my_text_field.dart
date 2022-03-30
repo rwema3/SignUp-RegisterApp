@@ -8,4 +8,4 @@ class MyTextField extends StatelessWidget {
     @required this.hintText,
     @required this.inputType,
   }) : super(key: key);
-  fin
+  fi
