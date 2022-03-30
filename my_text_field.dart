@@ -7,4 +7,4 @@ class MyTextField extends StatelessWidget {
     Key key,
     @required this.hintText,
     @required this.inputType,
-  }) : super(key: ke
+  }) : super(key: k
