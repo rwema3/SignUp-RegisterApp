@@ -18,4 +18,3 @@ class MyTextField extends StatelessWidget {
       child: TextField(
         style: kBodyText.copyWith(color: Colors.white),
         keyboardType: inputType,
-    
