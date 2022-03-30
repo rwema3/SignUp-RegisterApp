@@ -17,4 +17,3 @@ class MyTextField extends StatelessWidget {
       padding: const EdgeInsets.symmetric(vertical: 10),
       child: TextField(
         style: kBodyText.copyWith(color: Colors.white),
-  
