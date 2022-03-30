@@ -34,3 +34,4 @@ class MyTextField extends StatelessWidget {
             borderSide: BorderSide(
               color: Colors.white,
               width: 1,
+    
